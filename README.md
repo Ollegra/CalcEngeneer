@@ -1,3 +1,6 @@
+![License](https://img.shields.io/badge/license-GPLv3-blue)
+![Python](https://img.shields.io/badge/python-3.1%2B-blue.svg)
+
 # CalcEngeneer
 ![image](https://github.com/Ollegra/CalcEngeneer/blob/main/screenshot.png)
 <h2 style="color: #3daee9; margin-bottom: 20px;">📖 Справка по инженерному калькулятору</h2>
